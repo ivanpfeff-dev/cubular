@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CubularServer", "CubularServer\CubularServer.csproj", "{D8521F85-20A0-4B7A-A833-42F10311DA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8521F85-20A0-4B7A-A833-42F10311DA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8521F85-20A0-4B7A-A833-42F10311DA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8521F85-20A0-4B7A-A833-42F10311DA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8521F85-20A0-4B7A-A833-42F10311DA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5BC429-5D06-4C69-B3C1-FAF55A0457EB}
+	EndGlobalSection
+EndGlobal
